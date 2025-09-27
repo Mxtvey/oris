@@ -1,0 +1,209 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+  font-family: Afacad, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 20px;
+  background: #fff;
+}
+
+/* Погода — прижата к правому верхнему углу */
+.weather {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  text-align: right;
+}
+
+.temp {
+  font-family: Afacad, sans-serif;
+  font-weight: 700;
+  font-size: 28px; /* Уменьшено для мобилки */
+  color: #212121;
+}
+
+.city {
+  font-family: Afacad, sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  color: #6E6CDF;
+}
+
+/* Основной контейнер */
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 800px; /* Ограничение для больших экранов */
+  gap: 40px;
+}
+
+.greeting {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 16px;
+}
+
+.time {
+  font-family: Afacad, sans-serif;
+  font-weight: 700;
+  font-size: 64px; /* На мобилке — меньше */
+  line-height: 1.1;
+}
+
+.hello {
+  font-family: Afacad, sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+  color: #6E6CDF;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 620px;
+  gap: 40px;
+  margin: 0 auto;
+}
+
+.searchbar {
+  display: flex;
+  align-items: center;
+  padding: 16px 24px;
+  border-radius: 18px;
+  background: #FAFAFA;
+  border: 1px solid #EEEEEE;
+}
+
+.loopa {
+  width: 24px;
+  height: 24px;
+  opacity: 1;
+}
+
+.search_txt {
+  font-family: Poppins, sans-serif;
+  margin-left: 12px;
+  font-size: 18px;
+  color: #9E9E9E;
+  flex: 1; /* Занимает оставшееся пространство */
+}
+
+.icons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  width: 100%;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60px;
+  height: 60px;
+  border-radius: 16px;
+  border: 1px solid #EEEEEE;
+  background: #FAFAFA;
+}
+/* Мобильные устройства (до 768px) */
+@media (max-width: 768px) {
+  .weather {
+    top: 15px;
+    right: 15px;
+  }
+
+  .temp {
+    font-size: 24px;
+  }
+
+  .city {
+    font-size: 16px;
+  }
+
+  .time {
+    font-size: 48px;
+  }
+
+  .hello {
+    font-size: 26px;
+  }
+
+  .searchbar {
+    padding: 14px 18px;
+    border-radius: 14px;
+  }
+
+  .loopa {
+    width: 20px;
+    height: 20px;
+  }
+
+  .search_txt {
+    font-size: 16px;
+    margin-left: 10px;
+  }
+
+  li {
+    width: 50px;
+    height: 50px;
+    border-radius: 12px;
+  }
+
+  .main {
+    gap: 30px;
+  }
+
+  .center {
+    gap: 30px;
+  }
+}
+
+/* Очень маленькие экраны (до 480px) */
+@media (max-width: 480px) {
+  .time {
+    font-size: 40px;
+  }
+
+  .hello {
+    font-size: 22px;
+  }
+
+  .search_txt {
+    font-size: 15px;
+  }
+
+  li {
+    width: 44px;
+    height: 44px;
+  }
+
+  .temp {
+    font-size: 20px;
+  }
+
+  .city {
+    font-size: 14px;
+  }
+}
