@@ -1,0 +1,33 @@
+C:\Users\mxtvey\Desktop\proga\Новая папка\miniHttpServer\miniHttpServer\bin\Debug\net9.0\miniHttpServer.exe
+C:\Users\mxtvey\Desktop\proga\Новая папка\miniHttpServer\miniHttpServer\bin\Debug\net9.0\miniHttpServer.deps.json
+C:\Users\mxtvey\Desktop\proga\Новая папка\miniHttpServer\miniHttpServer\bin\Debug\net9.0\miniHttpServer.runtimeconfig.json
+C:\Users\mxtvey\Desktop\proga\Новая папка\miniHttpServer\miniHttpServer\bin\Debug\net9.0\miniHttpServer.dll
+C:\Users\mxtvey\Desktop\proga\Новая папка\miniHttpServer\miniHttpServer\bin\Debug\net9.0\miniHttpServer.pdb
+C:\Users\mxtvey\Desktop\proga\Новая папка\miniHttpServer\miniHttpServer\obj\Debug\net9.0\miniHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxtvey\Desktop\proga\Новая папка\miniHttpServer\miniHttpServer\obj\Debug\net9.0\miniHttpServer.AssemblyInfoInputs.cache
+C:\Users\mxtvey\Desktop\proga\Новая папка\miniHttpServer\miniHttpServer\obj\Debug\net9.0\miniHttpServer.AssemblyInfo.cs
+C:\Users\mxtvey\Desktop\proga\Новая папка\miniHttpServer\miniHttpServer\obj\Debug\net9.0\miniHttpServer.csproj.CoreCompileInputs.cache
+C:\Users\mxtvey\Desktop\proga\Новая папка\miniHttpServer\miniHttpServer\obj\Debug\net9.0\miniHttpServer.dll
+C:\Users\mxtvey\Desktop\proga\Новая папка\miniHttpServer\miniHttpServer\obj\Debug\net9.0\refint\miniHttpServer.dll
+C:\Users\mxtvey\Desktop\proga\Новая папка\miniHttpServer\miniHttpServer\obj\Debug\net9.0\miniHttpServer.pdb
+C:\Users\mxtvey\Desktop\proga\Новая папка\miniHttpServer\miniHttpServer\obj\Debug\net9.0\miniHttpServer.genruntimeconfig.cache
+C:\Users\mxtvey\Desktop\proga\Новая папка\miniHttpServer\miniHttpServer\obj\Debug\net9.0\ref\miniHttpServer.dll
+C:\Users\mxtvey\Desktop\proga\Новая папка\miniHttpServer\miniHttpServer\bin\Debug\net9.0\settings.json
+C:\Users\mxtvey\Desktop\proga\Новая папка\miniHttpServer\miniHttpServer\bin\Debug\net9.0\Static\index.html
+C:\oris\HomeWork_2\miniHttpServer\miniHttpServer\bin\Debug\net9.0\miniHttpServer.exe
+C:\oris\HomeWork_2\miniHttpServer\miniHttpServer\bin\Debug\net9.0\settings.json
+C:\oris\HomeWork_2\miniHttpServer\miniHttpServer\bin\Debug\net9.0\static\index.html
+C:\oris\HomeWork_2\miniHttpServer\miniHttpServer\bin\Debug\net9.0\miniHttpServer.deps.json
+C:\oris\HomeWork_2\miniHttpServer\miniHttpServer\bin\Debug\net9.0\miniHttpServer.runtimeconfig.json
+C:\oris\HomeWork_2\miniHttpServer\miniHttpServer\bin\Debug\net9.0\miniHttpServer.dll
+C:\oris\HomeWork_2\miniHttpServer\miniHttpServer\bin\Debug\net9.0\miniHttpServer.pdb
+C:\oris\HomeWork_2\miniHttpServer\miniHttpServer\obj\Debug\net9.0\miniHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\oris\HomeWork_2\miniHttpServer\miniHttpServer\obj\Debug\net9.0\miniHttpServer.AssemblyInfoInputs.cache
+C:\oris\HomeWork_2\miniHttpServer\miniHttpServer\obj\Debug\net9.0\miniHttpServer.AssemblyInfo.cs
+C:\oris\HomeWork_2\miniHttpServer\miniHttpServer\obj\Debug\net9.0\miniHttpServer.csproj.CoreCompileInputs.cache
+C:\oris\HomeWork_2\miniHttpServer\miniHttpServer\obj\Debug\net9.0\miniHttpServer.sourcelink.json
+C:\oris\HomeWork_2\miniHttpServer\miniHttpServer\obj\Debug\net9.0\miniHttpServer.dll
+C:\oris\HomeWork_2\miniHttpServer\miniHttpServer\obj\Debug\net9.0\refint\miniHttpServer.dll
+C:\oris\HomeWork_2\miniHttpServer\miniHttpServer\obj\Debug\net9.0\miniHttpServer.pdb
+C:\oris\HomeWork_2\miniHttpServer\miniHttpServer\obj\Debug\net9.0\miniHttpServer.genruntimeconfig.cache
+C:\oris\HomeWork_2\miniHttpServer\miniHttpServer\obj\Debug\net9.0\ref\miniHttpServer.dll
