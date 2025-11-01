@@ -1,0 +1,6 @@
+C:\Users\mxtvey\Desktop\proga\miniHttpServer\miniHttpServer.Framework\obj\Debug\net9.0\miniHttpServer.Framework.csproj.AssemblyReference.cache
+C:\Users\mxtvey\Desktop\proga\miniHttpServer\miniHttpServer.Framework\obj\Debug\net9.0\miniHttpServer.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxtvey\Desktop\proga\miniHttpServer\miniHttpServer.Framework\obj\Debug\net9.0\miniHttpServer.Framework.AssemblyInfoInputs.cache
+C:\Users\mxtvey\Desktop\proga\miniHttpServer\miniHttpServer.Framework\obj\Debug\net9.0\miniHttpServer.Framework.AssemblyInfo.cs
+C:\Users\mxtvey\Desktop\proga\miniHttpServer\miniHttpServer.Framework\obj\Debug\net9.0\miniHttpServer.Framework.csproj.CoreCompileInputs.cache
+C:\Users\mxtvey\Desktop\proga\miniHttpServer\miniHttpServer.Framework\obj\Debug\net9.0\miniHttpServer.Framework.sourcelink.json
