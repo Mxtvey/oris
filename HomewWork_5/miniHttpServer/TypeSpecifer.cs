@@ -1,0 +1,19 @@
+﻿// namespace HttpServer;
+//
+// public class TypeSpecifer
+// {
+//     public Dictionary<string, string> fileTypes = new()
+//     {
+//         { "html", "text/html" },
+//         { "css", "text/css" },
+//         { "js", "application/javascript" },
+//         { "png", "image/png" },
+//         { "jpg", "image/jpeg" },
+//         { "jpeg", "image/jpeg" },
+//         { "webp", "image/webp" },
+//         { "ico", "image/x-icon" },
+//         { "svg", "image/svg+xml" },
+//         { "json", "application/json" }
+//     };
+//
+// }
