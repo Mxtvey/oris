@@ -140,36 +140,36 @@ public class ORMContext
         using var connection = new NpgsqlConnection(_connectionString);
         connection.Open();
 
-        // Получаем все публичные свойства объекта
+       
         var props = typeof(T).GetProperties(BindingFlags.Public | BindingFlags.Instance);
 
-        // Исключаем поле Id, т.к. оно ключевое
+
         var columns = props.Where(p => !string.Equals(p.Name, "Id", StringComparison.OrdinalIgnoreCase)).ToArray();
 
-        // Формируем SQL строку с параметрами
+
         var setClause = string.Join(", ", columns.Select(p => $"{p.Name.ToLower()} = @{p.Name.ToLower()}"));
         var sql = $"UPDATE {tableName} SET {setClause} WHERE id = @id;";
 
         using var cmd = new NpgsqlCommand(sql, connection);
 
-        // Добавляем параметры для всех свойств
+       
         foreach (var prop in columns)
         {
             var value = prop.GetValue(entity) ?? DBNull.Value;
             cmd.Parameters.AddWithValue("@" + prop.Name.ToLower(), value);
         }
 
-        // Добавляем параметр для id
+    
         cmd.Parameters.AddWithValue("@id", id);
 
-        // Выполняем запрос
+ 
         cmd.ExecuteNonQuery();
     }
 
 
     public bool Delete(int id, string tableName)
     {
-            // ВАЖНО: tableName нельзя параметризовать — проверь/белый список!
+          
             using var connection = new NpgsqlConnection(_connectionString);
             connection.Open();
 
@@ -178,7 +178,20 @@ public class ORMContext
             cmd.Parameters.AddWithValue("@id", id);
 
             var affected = cmd.ExecuteNonQuery();
-            return affected > 0; // true, если строка удалена
+            return affected > 0; 
     }
 
+}
+
+public static class DataReaderExtensions
+{
+    public static bool HasColumn(this IDataRecord reader, string columnName)
+    {
+        for (int i = 0; i < reader.FieldCount; i++)
+        {
+            if (string.Equals(reader.GetName(i), columnName, StringComparison.OrdinalIgnoreCase))
+                return true;
+        }
+        return false;
+    }
 }

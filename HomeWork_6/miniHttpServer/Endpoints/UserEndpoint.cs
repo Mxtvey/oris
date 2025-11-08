@@ -4,6 +4,7 @@ using MiniHttpServer.Framework.Core.Abstracts;
 using HttpServer.Shared;
 using System.Text;
 using MiniHttpServer.HttpResponce;
+using MiniHttpServer.Shared;
 
 
 namespace MiniHttpServer.Framework.Core.Handlers
@@ -27,10 +28,12 @@ namespace MiniHttpServer.Framework.Core.Handlers
 
             foreach (var u in users)
             {
-                sb.AppendLine($"{u.Id}\t{u.Name}\t{u.Age}<br>");
+                sb.AppendLine((string?)$"{u.Id}\t{u.Name}\t{u.Age}<br>");
             }
 
             return new PageResult(sb.ToString(), "text/html; charset=utf-8");
         }
     }
+    
+    
 }
