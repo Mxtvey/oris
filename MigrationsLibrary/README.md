@@ -16,9 +16,11 @@
 
 \# 1. Как оно вообще работает
 
+В program.cs в строке var db = new Conection("Host=localhost;Username=postgres;Password=1234;Database=Happy"); Нужно прописать данные для подключениея к бд.
 
 
-Ты создаёшь класс — например:
+
+После ты создаёшь класс — например:
 
 
 
@@ -30,15 +32,15 @@ public class User
 
 {
 
-&nbsp;   \[PrimaryKey]
+[PrimaryKey]
 
-&nbsp;   public int Id { get; set; }
+public int Id { get; set; }
 
 
 
-&nbsp;   \[Column("name")]
+[Column("name")]
 
-&nbsp;   public string Name { get; set; }
+ public string Name { get; set; }
 
 }
 
@@ -48,7 +50,7 @@ public class User
 
 
 
-\# 2. Что нужно, чтобы оно работало
+# 2. Что нужно, чтобы оно работало
 
 
 
@@ -60,15 +62,15 @@ public class User
 
 CREATE TABLE migrations (
 
-&nbsp;   id SERIAL PRIMARY KEY,
+ id SERIAL PRIMARY KEY,
 
-&nbsp;   name TEXT,
+name TEXT,
 
-&nbsp;   applied\_at TIMESTAMP,
+applied\_at TIMESTAMP,
 
-&nbsp;   up\_sql TEXT,
+up\_sql TEXT,
 
-&nbsp;   down\_sql TEXT
+down\_sql TEXT
 
 );
 
@@ -84,7 +86,7 @@ CREATE TABLE migrations (
 
 
 
-\# 3. Как создать миграцию
+# 3. Как создать миграцию
 
 
 
@@ -112,9 +114,9 @@ http://localhost:5000/migrate/create
 
 {
 
-&nbsp; "name": "Migration20251115123400",
+"name": "Migration20251115123400",
 
-&nbsp; "status": "created"
+"status": "created"
 
 }
 
@@ -146,9 +148,9 @@ http://localhost:5000/migrate/apply
 
 {
 
-&nbsp; "name": "Migration20251115123400",
+"name": "Migration20251115123400",
 
-&nbsp; "status": "applied"
+"status": "applied"
 
 }
 
@@ -168,21 +170,21 @@ http://localhost:5000/migrate/apply
 
 ```csharp
 
-\[Table("products")]
+[Table("products")]
 
 public class Product
 
 {
 
-&nbsp;   \[PrimaryKey]
+[PrimaryKey]
 
-&nbsp;   public int Id { get; set; }
+ public int Id { get; set; }
 
 
 
-&nbsp;   \[Column("title")]
+[Column("title")]
 
-&nbsp;   public string Title { get; set; }
+ public string Title { get; set; }
 
 }
 
@@ -198,7 +200,7 @@ public class Product
 
 
 
-&nbsp;После этого:
+После этого:
 
 
 
