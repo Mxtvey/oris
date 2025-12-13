@@ -1,6 +1,0 @@
-C:\Users\mxtvey\Desktop\proga\miniHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.csproj.AssemblyReference.cache
-C:\Users\mxtvey\Desktop\proga\miniHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mxtvey\Desktop\proga\miniHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.AssemblyInfoInputs.cache
-C:\Users\mxtvey\Desktop\proga\miniHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.AssemblyInfo.cs
-C:\Users\mxtvey\Desktop\proga\miniHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.csproj.CoreCompileInputs.cache
-C:\Users\mxtvey\Desktop\proga\miniHttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.sourcelink.json
