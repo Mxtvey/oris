@@ -1,0 +1,41 @@
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.WinForm\bin\Debug\net8.0-windows\GameAndDot.WinForm.exe
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.WinForm\bin\Debug\net8.0-windows\GameAndDot.WinForm.deps.json
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.WinForm\bin\Debug\net8.0-windows\GameAndDot.WinForm.runtimeconfig.json
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.WinForm\bin\Debug\net8.0-windows\GameAndDot.WinForm.dll
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.WinForm\bin\Debug\net8.0-windows\GameAndDot.WinForm.pdb
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.WinForm\bin\Debug\net8.0-windows\GameAndDot.Shared.dll
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.WinForm\bin\Debug\net8.0-windows\GameAndDot.Shared.pdb
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.WinForm\obj\Debug\net8.0-windows\GameAndDot.WinForm.csproj.AssemblyReference.cache
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.WinForm\obj\Debug\net8.0-windows\GameAndDot.WinForm.Form1.resources
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.WinForm\obj\Debug\net8.0-windows\GameAndDot.WinForm.csproj.GenerateResource.cache
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.WinForm\obj\Debug\net8.0-windows\GameAndDot.WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.WinForm\obj\Debug\net8.0-windows\GameAndDot.WinForm.AssemblyInfoInputs.cache
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.WinForm\obj\Debug\net8.0-windows\GameAndDot.WinForm.AssemblyInfo.cs
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.WinForm\obj\Debug\net8.0-windows\GameAndDot.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.WinForm\obj\Debug\net8.0-windows\GameAndD.D15F0C9C.Up2Date
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.WinForm\obj\Debug\net8.0-windows\GameAndDot.WinForm.dll
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.WinForm\obj\Debug\net8.0-windows\refint\GameAndDot.WinForm.dll
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.WinForm\obj\Debug\net8.0-windows\GameAndDot.WinForm.pdb
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.WinForm\obj\Debug\net8.0-windows\GameAndDot.WinForm.genruntimeconfig.cache
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.WinForm\obj\Debug\net8.0-windows\ref\GameAndDot.WinForm.dll
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.WinForm\bin\Debug\net8.0-windows\GameAndDot.WinForm.exe
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.WinForm\bin\Debug\net8.0-windows\GameAndDot.WinForm.deps.json
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.WinForm\bin\Debug\net8.0-windows\GameAndDot.WinForm.runtimeconfig.json
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.WinForm\bin\Debug\net8.0-windows\GameAndDot.WinForm.dll
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.WinForm\bin\Debug\net8.0-windows\GameAndDot.WinForm.pdb
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.WinForm\bin\Debug\net8.0-windows\GameAndDot.Shared.dll
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.WinForm\bin\Debug\net8.0-windows\GameAndDot.Shared.pdb
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.WinForm\obj\Debug\net8.0-windows\GameAndDot.WinForm.csproj.AssemblyReference.cache
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.WinForm\obj\Debug\net8.0-windows\GameAndDot.WinForm.Form1.resources
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.WinForm\obj\Debug\net8.0-windows\GameAndDot.WinForm.csproj.GenerateResource.cache
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.WinForm\obj\Debug\net8.0-windows\GameAndDot.WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.WinForm\obj\Debug\net8.0-windows\GameAndDot.WinForm.AssemblyInfoInputs.cache
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.WinForm\obj\Debug\net8.0-windows\GameAndDot.WinForm.AssemblyInfo.cs
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.WinForm\obj\Debug\net8.0-windows\GameAndDot.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.WinForm\obj\Debug\net8.0-windows\GameAndDot.WinForm.sourcelink.json
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.WinForm\obj\Debug\net8.0-windows\GameAndD.D15F0C9C.Up2Date
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.WinForm\obj\Debug\net8.0-windows\GameAndDot.WinForm.dll
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.WinForm\obj\Debug\net8.0-windows\refint\GameAndDot.WinForm.dll
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.WinForm\obj\Debug\net8.0-windows\GameAndDot.WinForm.pdb
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.WinForm\obj\Debug\net8.0-windows\GameAndDot.WinForm.genruntimeconfig.cache
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.WinForm\obj\Debug\net8.0-windows\ref\GameAndDot.WinForm.dll

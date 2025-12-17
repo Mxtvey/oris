@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProtocolFramework/1.0.0": {
+        "runtime": {
+          "ProtocolFramework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProtocolFramework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

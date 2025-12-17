@@ -1,0 +1,12 @@
+C:\oris\HomeWork_9\GameAndDot\ProtocolFramework\bin\Debug\net8.0\ProtocolFramework.deps.json
+C:\oris\HomeWork_9\GameAndDot\ProtocolFramework\bin\Debug\net8.0\ProtocolFramework.dll
+C:\oris\HomeWork_9\GameAndDot\ProtocolFramework\bin\Debug\net8.0\ProtocolFramework.pdb
+C:\oris\HomeWork_9\GameAndDot\ProtocolFramework\obj\Debug\net8.0\ProtocolFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\oris\HomeWork_9\GameAndDot\ProtocolFramework\obj\Debug\net8.0\ProtocolFramework.AssemblyInfoInputs.cache
+C:\oris\HomeWork_9\GameAndDot\ProtocolFramework\obj\Debug\net8.0\ProtocolFramework.AssemblyInfo.cs
+C:\oris\HomeWork_9\GameAndDot\ProtocolFramework\obj\Debug\net8.0\ProtocolFramework.csproj.CoreCompileInputs.cache
+C:\oris\HomeWork_9\GameAndDot\ProtocolFramework\obj\Debug\net8.0\ProtocolFramework.sourcelink.json
+C:\oris\HomeWork_9\GameAndDot\ProtocolFramework\obj\Debug\net8.0\ProtocolFramework.dll
+C:\oris\HomeWork_9\GameAndDot\ProtocolFramework\obj\Debug\net8.0\refint\ProtocolFramework.dll
+C:\oris\HomeWork_9\GameAndDot\ProtocolFramework\obj\Debug\net8.0\ProtocolFramework.pdb
+C:\oris\HomeWork_9\GameAndDot\ProtocolFramework\obj\Debug\net8.0\ref\ProtocolFramework.dll

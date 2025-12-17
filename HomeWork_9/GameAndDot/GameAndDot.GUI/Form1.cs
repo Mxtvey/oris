@@ -52,33 +52,23 @@ namespace GameAndDot.GUI
             {
                 MessageBox.Show(ex.Message);
             }
-        }
-             private void Client_OnPacketRecieve(byte[] raw)
+        } 
+        private void Client_OnPacketRecieve(byte[] raw)
         {
             var packet = XPacket.Parse(raw);
             if (packet == null) return;
 
             var type = XPacketTypeManager.GetTypeFromPacket(packet);
-            Console.WriteLine($"RECV {type}");
-
-            if (type == XPacketType.Welcome)
-                Console.WriteLine($"WELCOME id={packet.GetValue<int>(1)}");
-
-            if (type == XPacketType.PlayerJoined)
-                Console.WriteLine($"JOIN id={packet.GetValue<int>(1)}");
-
-            if (type == XPacketType.PointPlaced)
-                Console.WriteLine($"POINT id={packet.GetValue<int>(1)}");
-
+            
             switch (type)
             {
                 case XPacketType.Welcome:
                     {
                         _myPlayerId = packet.GetValue<int>(1);
-
+                        BeginInvoke(UpdatePlayersList);
                         BeginInvoke(new Action(() =>
                         {
-                            gameField.Enabled = true;
+                            gameField.Enabled = true;   
                         }));
                         break;
                     }

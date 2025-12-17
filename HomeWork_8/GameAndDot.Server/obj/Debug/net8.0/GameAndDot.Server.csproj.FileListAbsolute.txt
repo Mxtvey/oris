@@ -1,0 +1,37 @@
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.exe
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.deps.json
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.runtimeconfig.json
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.dll
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.pdb
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Shared.dll
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Shared.pdb
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.csproj.AssemblyReference.cache
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.AssemblyInfoInputs.cache
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.AssemblyInfo.cs
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.csproj.CoreCompileInputs.cache
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.Server\obj\Debug\net8.0\GameAndD.2889A230.Up2Date
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.dll
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.Server\obj\Debug\net8.0\refint\GameAndDot.Server.dll
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.pdb
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.genruntimeconfig.cache
+C:\Users\teffy\source\repos\GameAndDot\GameAndDot.Server\obj\Debug\net8.0\ref\GameAndDot.Server.dll
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.exe
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.deps.json
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.runtimeconfig.json
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.dll
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Server.pdb
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Shared.dll
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.Server\bin\Debug\net8.0\GameAndDot.Shared.pdb
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.csproj.AssemblyReference.cache
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.AssemblyInfoInputs.cache
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.AssemblyInfo.cs
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.csproj.CoreCompileInputs.cache
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.sourcelink.json
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.Server\obj\Debug\net8.0\GameAndD.2889A230.Up2Date
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.dll
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.Server\obj\Debug\net8.0\refint\GameAndDot.Server.dll
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.pdb
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.Server\obj\Debug\net8.0\GameAndDot.Server.genruntimeconfig.cache
+C:\Users\mxtvey\Desktop\GameAndDot (2)\GameAndDot.Server\obj\Debug\net8.0\ref\GameAndDot.Server.dll

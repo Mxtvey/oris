@@ -1,0 +1,16 @@
+C:\oris\HomeWork_9\GameAndDot\GameAndDot.Shared\bin\Debug\net9.0\GameAndDot.Shared.deps.json
+C:\oris\HomeWork_9\GameAndDot\GameAndDot.Shared\bin\Debug\net9.0\GameAndDot.Shared.dll
+C:\oris\HomeWork_9\GameAndDot\GameAndDot.Shared\bin\Debug\net9.0\GameAndDot.Shared.pdb
+C:\oris\HomeWork_9\GameAndDot\GameAndDot.Shared\bin\Debug\net9.0\ProtocolFramework.dll
+C:\oris\HomeWork_9\GameAndDot\GameAndDot.Shared\bin\Debug\net9.0\ProtocolFramework.pdb
+C:\oris\HomeWork_9\GameAndDot\GameAndDot.Shared\obj\Debug\net9.0\GameAndDot.Shared.csproj.AssemblyReference.cache
+C:\oris\HomeWork_9\GameAndDot\GameAndDot.Shared\obj\Debug\net9.0\GameAndDot.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\oris\HomeWork_9\GameAndDot\GameAndDot.Shared\obj\Debug\net9.0\GameAndDot.Shared.AssemblyInfoInputs.cache
+C:\oris\HomeWork_9\GameAndDot\GameAndDot.Shared\obj\Debug\net9.0\GameAndDot.Shared.AssemblyInfo.cs
+C:\oris\HomeWork_9\GameAndDot\GameAndDot.Shared\obj\Debug\net9.0\GameAndDot.Shared.csproj.CoreCompileInputs.cache
+C:\oris\HomeWork_9\GameAndDot\GameAndDot.Shared\obj\Debug\net9.0\GameAndDot.Shared.sourcelink.json
+C:\oris\HomeWork_9\GameAndDot\GameAndDot.Shared\obj\Debug\net9.0\GameAndD.5C385EDD.Up2Date
+C:\oris\HomeWork_9\GameAndDot\GameAndDot.Shared\obj\Debug\net9.0\GameAndDot.Shared.dll
+C:\oris\HomeWork_9\GameAndDot\GameAndDot.Shared\obj\Debug\net9.0\refint\GameAndDot.Shared.dll
+C:\oris\HomeWork_9\GameAndDot\GameAndDot.Shared\obj\Debug\net9.0\GameAndDot.Shared.pdb
+C:\oris\HomeWork_9\GameAndDot\GameAndDot.Shared\obj\Debug\net9.0\ref\GameAndDot.Shared.dll

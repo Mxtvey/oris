@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "GameAndDot.Shared/1.0.0": {
+        "dependencies": {
+          "ProtocolFramework": "1.0.0"
+        },
+        "runtime": {
+          "GameAndDot.Shared.dll": {}
+        }
+      },
+      "ProtocolFramework/1.0.0": {
+        "runtime": {
+          "ProtocolFramework.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameAndDot.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProtocolFramework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
